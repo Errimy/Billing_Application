@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: com.example.billingservice.BillingServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 8.669 s <<< FAILURE! - in com.example.billingservice.BillingServiceApplicationTests
+contextLoads  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: java.lang.IllegalStateException: Failed to execute CommandLineRunner
+Caused by: feign.FeignException$ServiceUnavailable: [503] during [GET] to [http://CUSTOMER-SERVICE/customers/1] [CustomerRestClient#getCustomerById(Long)]: [Load balancer does not contain an instance for the service CUSTOMER-SERVICE]
+

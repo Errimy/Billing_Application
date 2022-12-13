@@ -1,0 +1,11 @@
+C:\Users\redat\IdeaProjects\Billing Application\billing-service\src\main\java\com\example\billingservice\feign\CustomerRestClient.java
+C:\Users\redat\IdeaProjects\Billing Application\billing-service\src\main\java\com\example\billingservice\model\Product.java
+C:\Users\redat\IdeaProjects\Billing Application\billing-service\src\main\java\com\example\billingservice\entities\BillProjection.java
+C:\Users\redat\IdeaProjects\Billing Application\billing-service\src\main\java\com\example\billingservice\feign\ProductItemRestClient.java
+C:\Users\redat\IdeaProjects\Billing Application\billing-service\src\main\java\com\example\billingservice\model\Customer.java
+C:\Users\redat\IdeaProjects\Billing Application\billing-service\src\main\java\com\example\billingservice\web\BillingRestController.java
+C:\Users\redat\IdeaProjects\Billing Application\billing-service\src\main\java\com\example\billingservice\entities\Bill.java
+C:\Users\redat\IdeaProjects\Billing Application\billing-service\src\main\java\com\example\billingservice\repository\ProductItemRepository.java
+C:\Users\redat\IdeaProjects\Billing Application\billing-service\src\main\java\com\example\billingservice\BillingServiceApplication.java
+C:\Users\redat\IdeaProjects\Billing Application\billing-service\src\main\java\com\example\billingservice\repository\BillRepository.java
+C:\Users\redat\IdeaProjects\Billing Application\billing-service\src\main\java\com\example\billingservice\entities\ProductItem.java
